@@ -1,13 +1,14 @@
 simple_server
 ==============================
 
-A simple flask server build with Docker, run with `gunicorn` and tested with `curl`.
+A simple flask server built with Docker, run with a `gunicorn` command as a container and tested with `curl`.
 
 Prerequisites
 ---
 
 * Docker
 * curl command
+* Python 3
 
 Instructions
 ---
